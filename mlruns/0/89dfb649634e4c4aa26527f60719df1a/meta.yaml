@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/89dfb649634e4c4aa26527f60719df1a/artifacts
+end_time: 1743173844362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89dfb649634e4c4aa26527f60719df1a
+run_name: selective-mole-333
+run_uuid: 89dfb649634e4c4aa26527f60719df1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743173837483
+status: 3
+tags: []
+user_id: Shorya Sharma

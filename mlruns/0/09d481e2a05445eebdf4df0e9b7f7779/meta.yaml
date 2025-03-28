@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/09d481e2a05445eebdf4df0e9b7f7779/artifacts
+end_time: 1743174014745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09d481e2a05445eebdf4df0e9b7f7779
+run_name: judicious-rook-888
+run_uuid: 09d481e2a05445eebdf4df0e9b7f7779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743174006780
+status: 3
+tags: []
+user_id: Shorya Sharma
