@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/48a6eb0595624232a9677182e7a6c843/artifacts
+end_time: 1743172620763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48a6eb0595624232a9677182e7a6c843
+run_name: receptive-grouse-638
+run_uuid: 48a6eb0595624232a9677182e7a6c843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743172600488
+status: 3
+tags: []
+user_id: Shorya Sharma
