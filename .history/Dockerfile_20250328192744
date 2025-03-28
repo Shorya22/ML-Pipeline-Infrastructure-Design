@@ -1,0 +1,25 @@
+# Use an official Python runtime as a parent image
+FROM python:3.9
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy requirements and install dependencies
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Install additional dependencies
+RUN pip install fastapi uvicorn pandas numpy scikit-learn joblib mlflow
+
+# Copy application files
+COPY train_titanic_model.py ./
+COPY inference_api.py ./
+
+# Ensure the model directory exists
+RUN mkdir -p /app/models
+
+# Expose API port
+EXPOSE 8000
+
+# Train the model at runtime if it doesn’t exist & start the API
+CMD ["/bin/sh", "-c", "python train_titanic_model.py && ls -l /app/models && uvicorn inference_api:app --host 0.0.0.0 --port 8000"]

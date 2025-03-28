@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/cff1c11fc8c94eafbb6f6c2b98f06038/artifacts
+end_time: 1743169986388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cff1c11fc8c94eafbb6f6c2b98f06038
+run_name: intrigued-calf-66
+run_uuid: cff1c11fc8c94eafbb6f6c2b98f06038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743169977225
+status: 3
+tags: []
+user_id: Shorya Sharma

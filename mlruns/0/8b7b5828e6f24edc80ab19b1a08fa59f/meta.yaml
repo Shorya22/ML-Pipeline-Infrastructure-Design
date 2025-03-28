@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/8b7b5828e6f24edc80ab19b1a08fa59f/artifacts
+end_time: 1743169173389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b7b5828e6f24edc80ab19b1a08fa59f
+run_name: righteous-cat-618
+run_uuid: 8b7b5828e6f24edc80ab19b1a08fa59f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743169157648
+status: 4
+tags: []
+user_id: Shorya Sharma

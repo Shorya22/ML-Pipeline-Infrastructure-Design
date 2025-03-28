@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/73cb401ee3dd47cd9c9f804428688327/artifacts
+end_time: 1743166878034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73cb401ee3dd47cd9c9f804428688327
+run_name: mysterious-newt-542
+run_uuid: 73cb401ee3dd47cd9c9f804428688327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743166864701
+status: 3
+tags: []
+user_id: Shorya Sharma

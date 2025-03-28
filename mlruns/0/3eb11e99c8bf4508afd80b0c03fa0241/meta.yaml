@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/3eb11e99c8bf4508afd80b0c03fa0241/artifacts
+end_time: 1743166912444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eb11e99c8bf4508afd80b0c03fa0241
+run_name: dapper-wren-618
+run_uuid: 3eb11e99c8bf4508afd80b0c03fa0241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743166905639
+status: 3
+tags: []
+user_id: Shorya Sharma

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/2f0b14af12374f20928b8f173a1a887e/artifacts
+end_time: 1743169388404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f0b14af12374f20928b8f173a1a887e
+run_name: stately-skunk-33
+run_uuid: 2f0b14af12374f20928b8f173a1a887e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743169382358
+status: 3
+tags: []
+user_id: Shorya Sharma

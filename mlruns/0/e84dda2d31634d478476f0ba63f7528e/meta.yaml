@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/e84dda2d31634d478476f0ba63f7528e/artifacts
+end_time: 1743170629801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e84dda2d31634d478476f0ba63f7528e
+run_name: suave-turtle-341
+run_uuid: e84dda2d31634d478476f0ba63f7528e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743170624133
+status: 3
+tags: []
+user_id: Shorya Sharma

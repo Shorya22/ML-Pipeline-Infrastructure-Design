@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML Pipeline & Infrastructure Design/mlruns/0/d41db54d02a94ff9832bf3e42074436a/artifacts
+end_time: 1743167126498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d41db54d02a94ff9832bf3e42074436a
+run_name: orderly-ant-740
+run_uuid: d41db54d02a94ff9832bf3e42074436a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743167120621
+status: 3
+tags: []
+user_id: Shorya Sharma
